@@ -1,3 +1,11 @@
+### [1.0.1](https://github.com/bdougie/docs-template/compare/v1.0.0...v1.0.1) (2021-10-29)
+
+
+### Bug Fixes
+
+* let's see if this works ([f0accf3](https://github.com/bdougie/docs-template/commit/f0accf3ade8fc01b2d16d3669198867d2d45dddc))
+* thank you for spelling ([2730389](https://github.com/bdougie/docs-template/commit/2730389efa5bb78b60f01d537ad829de22a5550d))
+
 ## 1.0.0 (2021-10-27)
 
 
